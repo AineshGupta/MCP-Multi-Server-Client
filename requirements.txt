@@ -1,10 +1,5 @@
 requests
-streamlit
 langchain
-langchain-openai
-langchain-experimental
 mcp
-openai
 langchain_mcp_adapters
-langgraph
 langchain-groq
